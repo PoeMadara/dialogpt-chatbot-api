@@ -15,7 +15,7 @@ Este proyecto implementa un chatbot utilizando el modelo DialoGPT de Hugging Fac
    ```
 
 ## Uso
-1. Ejecuta el script `chatbot.py`.
+1. Ejecuta el script `chatbot.ipynb`.
 2. Introduce un mensaje y presiona Enter.
 3. Para salir, escribe `exit` o `quit`.
 
