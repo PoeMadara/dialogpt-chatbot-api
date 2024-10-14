@@ -1,6 +1,6 @@
 
 # Chatbot utilizando DialoGPT
- *Autor: Carlos Vergara*
+ *Por: Carlos Vergara*
 
 ### Introducción
 En este mini proyecto, utilicé el modelo de lenguaje DialoGPT para crear un chatbot conversacional. El caso de uso principal fue explorar las capacidades de una API de modelo de lenguaje mediante la implementación de un sistema de diálogo interactivo. Mi objetivo fue entender cómo el modelo genera respuestas en función de las entradas del usuario y experimentar con diferentes configuraciones para optimizar la interacción.
