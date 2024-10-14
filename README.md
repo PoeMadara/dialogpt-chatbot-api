@@ -1,4 +1,3 @@
-```markdown
 # Chatbot utilizando DialoGPT
 
 ## Introducción
