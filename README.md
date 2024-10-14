@@ -7,7 +7,7 @@ Este proyecto implementa un chatbot utilizando el modelo DialoGPT de Hugging Fac
 1. **Clona el repositorio**.
 2. **Instala las dependencias** ejecutando el siguiente comando:
    ```bash
-   conda env create -f ironhack.llm.yml
+   conda env create -f ironhack-llm.yml
    ```
 3. **Activa el entorno**:
    ```bash
