@@ -3,7 +3,7 @@
  *Por: Carlos Vergara*
 
 ### Introducción
-En este mini proyecto, utilicé el modelo de lenguaje DialoGPT para crear un chatbot conversacional. El caso de uso principal fue explorar las capacidades de una API de modelo de lenguaje mediante la implementación de un sistema de diálogo interactivo. Mi objetivo fue entender cómo el modelo genera respuestas en función de las entradas del usuario y experimentar con diferentes configuraciones para optimizar la interacción.
+En este mini proyecto, utilicé el modelo de lenguaje **DialoGPT**, entrenado principalmente en diálogos de **Reddit**, para crear un chatbot conversacional. Debido a su fuente de datos, el modelo puede reflejar un tono más informal e incluso a veces algo **borde**, dependiendo del contexto. El caso de uso principal fue explorar las capacidades de una API de modelo de lenguaje mediante la implementación de un sistema de diálogo interactivo. Mi objetivo fue entender cómo el modelo genera respuestas en función de las entradas del usuario y experimentar con diferentes configuraciones para optimizar la interacción.
 
 ## Instalación
 1. Clona el repositorio.
